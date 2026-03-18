@@ -1,7 +1,8 @@
 {
 	"IntellijIdeaTestModification": {
 		"Edit the following json in the ide": {
-			"this is the end of test": "yes"
+			"this is the end of test": "yes",
+			"second commit": "yes"
 		}
 	},
 	"ACCESSCONTROL-ACTIONS-TEST": {
